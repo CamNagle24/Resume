@@ -20,9 +20,7 @@ Programs: Python, C++, Java, GitHub, OCaml, Microsoft Visual Studio Code, Intell
 
 SUMMARY														
 
-Self starter computer science student with strong focuses in Python, C++, and Java. Seeking an entry level Software Engineer role to provide application 
-
-development design solutions for Nonin’s collaborative teams.
+Self starter computer science student with strong focuses in Python, C++, and Java. Seeking an entry level Software Engineer role to provide application development design solutions for Nonin’s collaborative teams.
 
 WORK EXPERIENCE
 
