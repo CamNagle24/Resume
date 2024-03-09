@@ -3,6 +3,7 @@
 
 Cameron Nagle
 camnag01@gmail.com		            763-273-3606		    		     github.com/CamNagle24
+
 EDUCATION														
 University of Minnesota, Twin Cities, MN					         Expected Graduation May 2026
 Bachelor of Computer Science 					                      			          GPA: 3.4
